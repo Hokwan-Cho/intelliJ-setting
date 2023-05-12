@@ -3,7 +3,7 @@
     <property name="created">2022-01-17T10:49:17</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2023-05-12T09:16:03</property>
+    <property name="modified">2023-05-12T09:23:35</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -21,4 +21,18 @@
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
   </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
